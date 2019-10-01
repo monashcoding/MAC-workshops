@@ -1,3 +1,6 @@
 [submodule "2019-semester-2/GoGoTram-iOS"]
 	path = 2019-semester-2/GoGoTram-iOS
 	url = https://github.com/dsykesturner/GoGoTram-iOS.git
+[submodule "2019-semester-2/mac-workshop-simple-chatbot"]
+	path = 2019-semester-2/mac-workshop-simple-chatbot
+	url = https://github.com/DeeplyDiligent/mac-workshop-simple-chatbot.git
