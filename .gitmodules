@@ -4,3 +4,6 @@
 [submodule "2019-semester-2/mac-workshop-simple-chatbot"]
 	path = 2019-semester-2/mac-workshop-simple-chatbot
 	url = https://github.com/DeeplyDiligent/mac-workshop-simple-chatbot.git
+[submodule "2019-semester-2/show-your-emotions-with-rekognition"]
+	path = 2019-semester-2/show-your-emotions-with-rekognition
+	url = https://github.com/monashcode/show-your-emotions-with-rekognition.git

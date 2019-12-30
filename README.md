@@ -46,6 +46,12 @@ git submodule update --init --recursive
 
 ### Week 10: Cloud Computing
 
+[Cloud Computing by Paul Silver & NAB Team](https://github.com/monashcode/show-your-emotions-with-rekognition.git)
+
 ## Miscellaneous
 
 ### Faculty Workshop
+Take Ctrl Event: [Python Turtle Workshop](https://drive.google.com/file/d/14yHLYQJXa1nXWwo2X6VnlDYwx9l4yH42/view?usp=sharing)
+An example used by Angus: https://repl.it/repls/SourOpaqueComputergraphics
+
+
