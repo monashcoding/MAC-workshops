@@ -7,3 +7,12 @@
 [submodule "2019-semester-2/show-your-emotions-with-rekognition"]
 	path = 2019-semester-2/show-your-emotions-with-rekognition
 	url = https://github.com/monashcode/show-your-emotions-with-rekognition.git
+[submodule "2021-semester-1/snake-game"]
+	path = 2021-semester-1/snake-game
+	url = https://github.com/anna-giang/snake-game.git
+[submodule "2021-semester-2/dino-game"]
+	path = 2021-semester-2/dino-game
+	url = https://github.com/robertovers/dino-game.git
+[submodule "2022-semester-1/MacXBuildAPI"]
+	path = 2022-semester-1/MacXBuildAPI
+	url = https://github.com/saikumarmk/MacXBuildAPI.git
